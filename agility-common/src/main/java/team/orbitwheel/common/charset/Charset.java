@@ -8,6 +8,9 @@ public final class Charset {
 
     private Charset() { /* no instance */ }
 
-    public static final String UTF8 = "utf-8";
+    /**
+     * UTF-8
+     */
+    public static final String UTF_8 = "utf-8";
 
 }

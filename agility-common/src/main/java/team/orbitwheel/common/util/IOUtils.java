@@ -1,4 +1,4 @@
-package team.orbitwheel.common.io;
+package team.orbitwheel.common.util;
 
 /**
  * @author shiyajian

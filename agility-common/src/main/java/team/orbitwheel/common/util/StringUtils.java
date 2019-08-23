@@ -1,4 +1,4 @@
-package team.orbitwheel.common.string;
+package team.orbitwheel.common.util;
 
 import java.util.regex.Pattern;
 
